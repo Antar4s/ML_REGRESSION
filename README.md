@@ -24,8 +24,7 @@ $ git clone https://github.com/Antar4s/ML_REGRESSION
 <hr>
 
 ## Índices
-* [I Consumo de Combustível](#i-consumo-de-combustível)
-* [II Notas](#ii-notas)
+### [I Consumo de Combustível](#i-consumo-de-combustível)<br>[II Notas](#ii-notas)
 <br>
 
 <!-- STRUCTURE  1 -->
