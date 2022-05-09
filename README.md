@@ -28,12 +28,13 @@ $ git clone https://github.com/Antar4s/ML_REGRESSION
 * [II Notas](#ii-notas)
 <br>
 
-<!-- STRUCTURE 3 -->
+<!-- STRUCTURE  1 -->
 ## I Consumo de Combustível 
 > Os dados dizem respeito ao consumo de combustível do ciclo da cidade em milhas por galão, a ser previsto em termos de 3 atributos discretos multivalorados e 5 contínuos.
 ### Base: <a href="https://archive.ics.uci.edu/ml/datasets/auto+mpg">Mpg</a><br>Biblioteca: XGboost<br>Algoritmo: Regressor
 <br>
 
+<!-- STRUCTURE  2 -->
 ## II Notas
 > Notas baseadas no tempo de estudo.
 ### Base: Criada Manualmente<br>Biblioteca: Sklearn<br>Algoritmo: LinearRegression
